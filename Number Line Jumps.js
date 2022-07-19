@@ -19,4 +19,4 @@ function kangaroo(x1, v1, x2, v2) {
 
 /* test cases
 kangaroo(2,1,1,2)
-kangaroo(5,1,2,2) */ 
+kangaroo(5,1,2,2) */  
